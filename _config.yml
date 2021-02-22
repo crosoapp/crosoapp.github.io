@@ -1,6 +1,6 @@
 <h1>Privacy Policy for Croso </h1>
 
-<p>At Croso, accessible from www.crosoapp.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Croso and how we use it.</p>
+<p>At Croso, accessible from https://play.google.com/store/apps/details?id=com.app.croso&hl=es_AR , one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Croso and how we use it.</p>
 
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
